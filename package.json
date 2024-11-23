@@ -1,0 +1,34 @@
+{
+  "name": "kanbas-node-server-app",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokhrel-sh/kanbas-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP",
+    "Web",
+    "Development",
+    "CS4550"
+  ],
+  "author": "Shishir Pokhrel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokhrel-sh/kanbas-node-server-app/issues"
+  },
+  "homepage": "https://github.com/pokhrel-sh/kanbas-node-server-app#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
